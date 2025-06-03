@@ -49,4 +49,3 @@ This project demonstrates how a Non-Player Character (NPC) can learn to find the
 5.  **Visualization:** The HTML, CSS, and JavaScript work together to display the maze and the NPC's movement during training. The best path found after training is highlighted in yellow. The statistics displayed provide insights into the learning progress of the NPC.
 
 example visualisation : 
-https://imgur.com/a/bjyQxmV
