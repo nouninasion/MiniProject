@@ -50,3 +50,7 @@ This project demonstrates how a Non-Player Character (NPC) can learn to find the
 
 example visualisation : 
 
+
+https://github.com/user-attachments/assets/7eeb3a29-2ec6-466a-b781-824aaf8585a0
+
+
